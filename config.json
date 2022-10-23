@@ -1,0 +1,18 @@
+{
+    "token": "bot token",
+    "prefix": "bot prefix",
+    "ownerID": "your id",
+    "ownerUsername": "Your name",
+    "botID": "ID your aplication",
+    "botName": "bot name",
+    "verze": "Your version",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+    }
+}
+
